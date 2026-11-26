@@ -13,5 +13,5 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 - CSS3 (Flexbox dan media query)
 - Git dan GitHub
 ## Tautan
-- Website: https://portofolio-sigma-ashen.vercel.app/proyek.html
+- Website: https://portofolio-sigma-ashen.vercel.app
 - Dibuat oleh: Shabina Keyla, SMK Negeri 2 Singosari
